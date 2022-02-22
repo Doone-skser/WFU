@@ -8,6 +8,7 @@
 
 #### Windows（XP用户遇到问题欢迎在[关于页面][1]提交您的问题）：
  轻巧版： [**自建云**][2] （无需安装直接运行，约51M）
+ Github：https://github.com/Doone-skser/WFU/releases/tag/WFU_CNA
 
 ### BUG修复 2022年2月22日18:12
 
