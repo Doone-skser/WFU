@@ -1,3 +1,5 @@
+# Windows注册表读写模块
+
 import winreg
 
 
