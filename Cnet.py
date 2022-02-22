@@ -1,3 +1,4 @@
+# 校园网认证模块
 from requests import get, post
 from lxml import html
 from Crypto.Cipher import AES
