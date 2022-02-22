@@ -1,4 +1,5 @@
-# 读写配置文件模块
+# 文件读写模块
+
 import json
 import os
 
