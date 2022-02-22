@@ -1,3 +1,4 @@
+# 自启动相关
 import os
 import sys
 import win32api
