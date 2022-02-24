@@ -137,5 +137,5 @@
 
 
   [1]: https://www.nvidia.fun/index.php/start-page.html
-  [2]: https://oss.nvidia.fun/%E6%A0%A1%E5%9B%AD%E7%BD%91%E5%8A%A9%E6%89%8B.exe
-  [3]: https://github.com/Doone-skser/WFU
+  [2]: https://oss.nvidia.fun/WFUCNA_Setup_v1.5_x86.exe
+  [3]: https://oss.nvidia.fun/%E6%A0%A1%E5%9B%AD%E7%BD%91%E5%8A%A9%E6%89%8B.exe
