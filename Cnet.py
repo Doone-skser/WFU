@@ -154,20 +154,3 @@ class CNET(PyWiFi):
             return res
         except:
             return None
-
-    @classmethod
-    def post_cna(cls, action, numbers, version):
-        try:
-            url = "https://o.nvidia.fun:11111/m5h3K2LMgRq9IiUI"
-            data = {
-                'numbers': numbers,
-                'action': action,
-                'version': version
-            }
-            headers = {
-                "Content-Type": "application/json;charset=utf8"
-            }
-            res = post(url=url, data=json.dumps(data), headers=headers, timeout=1).json()
-            return res
-        except:
-            return None
