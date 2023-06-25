@@ -18,8 +18,7 @@
 ### 下载地址
 
 #### Windows（XP用户遇到问题欢迎在[关于页面][1]提交您的问题）：
- *   安装版： [**自建云**][2]  （需要安装，启动快，约41M）
- *   轻巧版： [**自建云**][3] （无需安装直接运行，启动慢，约51M）
+ 安装文件见[**博客**][2]
 
 ### BUG修复 
 
@@ -148,5 +147,4 @@
 
 
   [1]: https://www.nvidia.fun/index.php/start-page.html
-  [2]: https://oss.nvidia.fun/WFUCNA_Setup_v1.5_x86.exe
-  [3]: https://oss.nvidia.fun/%E6%A0%A1%E5%9B%AD%E7%BD%91%E5%8A%A9%E6%89%8B.exe
+  [2]: https://www.nvidia.fun/index.php/archives/98/
